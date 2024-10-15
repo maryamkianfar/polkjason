@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Software Design, Actuary Math, Data Mining, UX Design**
 
 - 💬 Ask me about **Java, C#, C/ C++, JavaScript, Software Design**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
